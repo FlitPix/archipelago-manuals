@@ -17,7 +17,7 @@ To connect to the multiworld, you use the Manual Client. Once connected, the int
 
 ## Support
 
-If you encounter an issue with my manual implementations, please create a GitHub Issue.
+If you encounter an issue with my manual implementations, please create a [GitHub Issue](https://github.com/FlitPix/archipelago-manuals/issues).
 
 If you encounter an issue with the Manual client or have any questions regarding Archipelago Manual games, please ask in the [Manual Discord server](https://discord.gg/T5bcsVHByx).
 
