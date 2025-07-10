@@ -4,7 +4,7 @@ This repository houses all Archipelago Manual APWorlds ("manuals" going forward)
 
 ## List of games
 
-None yet!
+- [ESCHATOS](https://github.com/FlitPix/archipelago-manuals/releases?q=ESCHATOS) (Steam, NS, PC, XB360)
 
 ## How to use
 

@@ -1,0 +1,211 @@
+[
+  {
+    "name": "AREA 1 Clear",
+    "region": "AREAs 1-5 - \"SILVER LINING\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 2 Clear",
+    "region": "AREAs 1-5 - \"SILVER LINING\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 3 Clear",
+    "region": "AREAs 1-5 - \"SILVER LINING\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 4 Clear",
+    "region": "AREAs 1-5 - \"SILVER LINING\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 5 Clear",
+    "region": "AREAs 1-5 - \"SILVER LINING\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 6 Clear",
+    "region": "AREAs 6-11 - \"SURVIVE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 7 Clear",
+    "region": "AREAs 6-11 - \"SURVIVE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 8 Clear",
+    "region": "AREAs 6-11 - \"SURVIVE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 9 Clear",
+    "region": "AREAs 6-11 - \"SURVIVE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 10 Clear",
+    "region": "AREAs 6-11 - \"SURVIVE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 11 Clear",
+    "region": "AREAs 6-11 - \"SURVIVE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 12 Clear",
+    "region": "AREAs 12-15 - \"POINT OF NO RETURN\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 13 Clear",
+    "region": "AREAs 12-15 - \"POINT OF NO RETURN\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 14 Clear",
+    "region": "AREAs 12-15 - \"POINT OF NO RETURN\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 15 Clear",
+    "region": "AREAs 12-15 - \"POINT OF NO RETURN\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 16 Clear",
+    "region": "AREAs 16-20 - \"STELLAR LIGHT\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 17 Clear",
+    "region": "AREAs 16-20 - \"STELLAR LIGHT\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 18 Clear",
+    "region": "AREAs 16-20 - \"STELLAR LIGHT\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 19 Clear",
+    "region": "AREAs 16-20 - \"STELLAR LIGHT\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 20 Clear",
+    "region": "AREAs 16-20 - \"STELLAR LIGHT\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 21 Clear",
+    "region": "AREAs 21-23 - \"RUSH INTO\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 22 Clear",
+    "region": "AREAs 21-23 - \"RUSH INTO\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 23 Clear",
+    "region": "AREAs 21-23 - \"RUSH INTO\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 24 Clear",
+    "region": "AREAs 24-26 - \"UNKNOWN PULSE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 25 Clear",
+    "region": "AREAs 24-26 - \"UNKNOWN PULSE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  },
+  {
+    "name": "AREA 26 Clear",
+    "victory": true,
+    "region": "AREAs 24-26 - \"UNKNOWN PULSE\"",
+    "category": [
+      "Clears"
+    ],
+    "requires": []
+  }
+]

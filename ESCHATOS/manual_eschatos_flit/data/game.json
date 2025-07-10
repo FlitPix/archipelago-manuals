@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "ESCHATOS",
+  "creator": "Flit",
+  "filler_item_name": "Score",
+  "starting_items": []
+}

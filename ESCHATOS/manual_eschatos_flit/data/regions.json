@@ -1,0 +1,37 @@
+{
+  "Areas 1-5 - \"SILVER LINING\"": {
+    "starting": true,
+    "connects_to": [
+      "Areas 6-11 - \"SURVIVE\""
+    ],
+    "requires": []
+  },
+  "Areas 6-11 - \"SURVIVE\"": {
+    "connects_to": [
+      "Areas 12-15 - \"POINT OF NO RETURN\""
+    ],
+    "requires": "|Access Card - \"SURVIVE\"|"
+  },
+  "Areas 12-15 - \"POINT OF NO RETURN\"": {
+    "connects_to": [
+      "Areas 16-20 - \"STELLAR LIGHT\""
+    ],
+    "requires": "|Access Card - \"SURVIVE\"| AND |Access Card - \"POINT OF NO RETURN\"|"
+  },
+  "Areas 16-20 - \"STELLAR LIGHT\"": {
+    "connects_to": [
+      "Areas 21-23 - \"RUSH INTO\""
+    ],
+    "requires": "|Access Card - \"SURVIVE\"| AND |Access Card - \"POINT OF NO RETURN\"| AND |Access Card - \"STELLAR LIGHT\"|"
+  },
+  "Areas 21-23 - \"RUSH INTO\"": {
+    "connects_to": [
+      "Areas 24-26 - \"UNKNOWN PULSE\""
+    ],
+    "requires": "|Access Card - \"SURVIVE\"| AND |Access Card - \"POINT OF NO RETURN\"| AND |Access Card - \"STELLAR LIGHT\"| AND |Access Card - \"RUSH INTO\"|"
+  },
+  "Areas 24-26 - \"UNKNOWN PULSE\"": {
+    "connects_to": [],
+    "requires": "|Access Card - \"SURVIVE\"| AND |Access Card - \"POINT OF NO RETURN\"| AND |Access Card - \"STELLAR LIGHT\"| AND |Access Card - \"RUSH INTO\"| AND |Access Card - \"UNKNOWN PULSE\"|"
+  }
+}
