@@ -1,6 +1,6 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "National Pokedex",
+  "game": "NationalPokedex",
   "creator": "Flit",
   "filler_item_name": "Filler",
   "starting_items": [
