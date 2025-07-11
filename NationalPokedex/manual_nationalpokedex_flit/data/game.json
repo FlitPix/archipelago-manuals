@@ -5,9 +5,6 @@
   "filler_item_name": "Filler",
   "starting_items": [
     {
-      "item_categories": ["Starters"]
-    },
-    {
       "item_categories": ["Kanto"],
       "random": 3
     },
