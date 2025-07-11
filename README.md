@@ -2,9 +2,10 @@
 
 This repository houses all Archipelago Manual APWorlds ("manuals" going forward) that I've created.
 
-## List of games
+## List of manual games
 
 - [ESCHATOS](https://github.com/FlitPix/archipelago-manuals/tree/main/ESCHATOS) (Steam, NS, PC, XB360)
+- [National Pokédex](https://github.com/FlitPix/archipelago-manuals/tree/main/NationalPokedex) (Meta)
 
 ## How to use
 

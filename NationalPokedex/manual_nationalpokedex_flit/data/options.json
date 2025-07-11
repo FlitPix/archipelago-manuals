@@ -1,0 +1,99 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        }
+    },
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "exclude_unreliable_spinoff_only":{
+            "description": [
+                "Removes Pokémon that are only legitimately obtainable in spinoff games where their availability is unreliable.",
+                "This includes Volcanion, Marshadow, Zarude, Walking Wake, and Iron Leaves."
+            ],
+            "display_name": "Exclude Unreliable Spinoff Only",
+            "type": "Toggle",
+            "default": true,
+            "group": "Item & Location Options"
+        },
+        "exclude_event_only":{
+            "description": [
+                "Removes Pokémon that are strictly event-only (including timed raid events) in the core series games and PoGO.",
+                "This includes Victini, Genesect, Diancie, Hoopa, Volcanion, Marshadow, Zeraora, Zarude, Walking Wake, and Iron Leaves."
+            ],
+            "display_name": "Exclude Event Only",
+            "type": "Toggle",
+            "default": true,
+            "group": "Item & Location Options"
+        },
+        "exclude_save_bonus_only":{
+            "description": [
+                "Removes Pokémon exclusive to save data bonuses in the core series games.",
+                "This includes Mew, Jirachi, Darkrai, and Shaymin."
+            ],
+            "display_name": "Exclude Save Bonus Only",
+            "type": "Toggle",
+            "default": false,
+            "group": "Item & Location Options"
+        },
+        "exclude_mythicals":{
+            "description": [
+                "Removes all Mythical Pokémon."
+            ],
+            "display_name": "Exclude Mythicals",
+            "type": "Toggle",
+            "default": false,
+            "group": "Item & Location Options"
+        },
+        "exclude_legendaries":{
+            "description": [
+                "Removes all Legendary Pokémon (incl. Ultra Beasts).",
+                "Doesn't include Paradox Pokémon, except for Koraidon and Miraidon."
+            ],
+            "display_name": "Exclude Legendaries",
+            "type": "Toggle",
+            "default": false,
+            "group": "Item & Location Options"
+        },
+        "include_starters":{
+            "description": [
+                "Whether to include first partner Pokémon.",
+                "Doesn't include Hisuian starters; enable regional forms for those."
+            ],
+            "display_name": "Include Starters",
+            "type": "Toggle",
+            "default": true,
+            "group": "Item & Location Options"
+        },
+        "include_regional_forms":{
+            "description": [
+                "Whether to include regional forms, eg. Alolan Forms.",
+                "Doesn't include evolutions that are not regional variants themselves, eg. Sneasler, Mr. Rime; you may want to enable those separately."
+            ],
+            "display_name": "Include Regional Forms",
+            "type": "Toggle",
+            "default": false,
+            "group": "Item & Location Options"
+        },
+        "include_regional_forms_evos":{
+            "description": [
+                "Whether to include regional forms' evolutions that aren't variants themselves, eg. Sneasler, Mr. Rime."
+            ],
+            "display_name": "Include Regional Forms' Evolutions",
+            "type": "Toggle",
+            "default": false,
+            "group": "Item & Location Options"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "Only in Unreliable Spinoffs": {
+    "hidden": true,
+    "yaml_option": [
+      "!exclude_unreliable_spinoff_only"
+    ]
+  },
+  "Core Series Event Only": {
+    "hidden": true,
+    "yaml_option": [
+      "!exclude_event_only"
+    ]
+  },
+  "Core Series Save Bonus Only": {
+    "hidden": true,
+    "yaml_option": [
+      "!exclude_save_bonus_only"
+    ]
+  },
+  "Mythicals": {
+    "hidden": true,
+    "yaml_option": [
+      "!exclude_mythicals"
+    ]
+  },
+  "Legendaries": {
+    "hidden": true,
+    "yaml_option": [
+      "!exclude_legendaries"
+    ]
+  },
+  "Starters": {
+    "hidden": true,
+    "yaml_option": [
+      "include_starters"
+    ]
+  },
+  "Regional Forms": {
+    "hidden": true,
+    "yaml_option": [
+      "include_regional_forms"
+    ]
+  },
+  "Regional Form Evos": {
+    "hidden": true,
+    "yaml_option": [
+      "include_regional_forms_evos"
+    ]
+  }
+}

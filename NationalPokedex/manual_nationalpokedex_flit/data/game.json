@@ -1,0 +1,48 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "National Pokedex",
+  "creator": "Flit",
+  "filler_item_name": "Filler",
+  "starting_items": [
+    {
+      "item_categories": ["Starters"]
+    },
+    {
+      "item_categories": ["Kanto"],
+      "random": 3
+    },
+    {
+      "item_categories": ["Johto"],
+      "random": 3
+    },
+    {
+      "item_categories": ["Hoenn"],
+      "random": 3
+    },
+    {
+      "item_categories": ["Sinnoh"],
+      "random": 3
+    },
+    {
+      "item_categories": ["Unova"],
+      "random": 3
+    },
+    {
+      "item_categories": ["Kalos"],
+      "random": 3
+    },
+    {
+      "item_categories": ["Alola"],
+      "random": 3
+    },
+    {
+      "item_categories": ["Galar"],
+      "random": 3
+    },
+    {
+      "item_categories": ["Paldea"],
+      "random": 3
+    }
+  ],
+  "death_link": false
+}
